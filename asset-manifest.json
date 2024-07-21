@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/court-meet/static/css/main.d9f15278.css",
+    "main.js": "/court-meet/static/js/main.65356c16.js",
+    "static/js/453.07f55113.chunk.js": "/court-meet/static/js/453.07f55113.chunk.js",
+    "index.html": "/court-meet/index.html",
+    "main.d9f15278.css.map": "/court-meet/static/css/main.d9f15278.css.map",
+    "main.65356c16.js.map": "/court-meet/static/js/main.65356c16.js.map",
+    "453.07f55113.chunk.js.map": "/court-meet/static/js/453.07f55113.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9f15278.css",
+    "static/js/main.65356c16.js"
+  ]
+}
