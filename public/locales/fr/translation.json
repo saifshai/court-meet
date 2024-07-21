@@ -4,6 +4,25 @@
     "description": "Votre plateforme ultime pour trouver et rejoindre des matchs de basket locaux, ou créer votre propre rencontre!",
     "findMeetups": "Trouver des rencontres",
     "createMeetup": "Créer une rencontre",
-    "help": "Aide"
+    "help": "Aide",
+    "helpsup": "Aide & Support",
+    "findgetintouch": "Trouvez des réponses à vos questions ou contactez-nous.",
+    "freqquest": "Questions Fréquemment Posées",
+    "howfind": "Comment trouver une rencontre?",
+    "tofind": "Pour trouver une rencontre, allez à la",
+    "pagefiltdown": "page et utilisez les filtres pour affiner votre recherche.",
+    "howicreate": "Comment créer une rencontre?",
+    "tocreate": "Pour créer une rencontre, allez à la",
+    "pagedets": "page et remplissez le formulaire avec les détails nécessaires.",
+    "howconsu": "Comment contacter le support?",
+    "iffurther": "Si vous avez besoin de plus d'assistance, vous pouvez contacter notre équipe de support en remplissant le formulaire ci-dessous ou en nous envoyant un email à support@courtmeet.com",
+    "contactUs": "Contactez-nous",
+    "name": "Nom :",
+    "yourName": "Votre Nom",
+    "email": "Email :",
+    "yourEmail": "Votre Email",
+    "yourMessage": "Votre Message",
+    "sendMessage": "Envoyer le Message"
   }
+
   
