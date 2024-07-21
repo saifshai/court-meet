@@ -4,8 +4,10 @@
   "private": true,
   "homepage": "https://saifshai.github.io/court-meet-final-version",
   "dependencies": {
+    "i18next": "^23.12.2",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
+    "react-i18next": "^15.0.0",
     "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
