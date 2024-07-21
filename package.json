@@ -2,7 +2,7 @@
   "name": "court-meet",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://saifshai.github.io/court-meet",
+  "homepage": "https://saifshai.github.io/court-meet-final-version",
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
