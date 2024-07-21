@@ -1,3 +1,4 @@
+// src/components/UserProfile.js
 import React, { useState } from 'react';
 
 const UserProfile = ({ user }) => {
