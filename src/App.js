@@ -6,6 +6,7 @@ import MeetupDetails from './components/MeetupDetails';
 import CreateMeetup from './components/CreateMeetup';
 import UserProfile from './components/UserProfile';
 import Help from './components/Help';
+import LanguageSwitcher from './components/LanguageSwitcher';
 import './App.css';
 
 const sampleUser = {
@@ -52,6 +53,7 @@ function App() {
             <Link to="/create">Create Meetup</Link> | 
             <Link to="/help">Help</Link>
           </nav>
+          <LanguageSwitcher />
         </header>
         <main>
           <Routes>
